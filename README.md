@@ -1,0 +1,1 @@
+This is my second game developing project. This is a recreation of the famous mobile game: 'flappy bird.' Most of the assets were sourced from Coding with Russ, some (the sound effects and background music) were taken from youtube. I do not own any of the assets.
